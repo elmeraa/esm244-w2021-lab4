@@ -1,0 +1,12 @@
+name: ea_part1
+title: ea_part1
+username:
+account: elmeraa
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3521894
+bundleId: 4142643
+url: https://elmeraa.shinyapps.io/ea_part1/
+when: 1611619218.17362
+asMultiple: FALSE
+asStatic: FALSE
